@@ -1,0 +1,25 @@
+.a {
+    text-align: center;
+    margin-top: 100px;
+}
+.b {
+    text-align: center;
+    border: 1px solid;
+    width: auto;
+    height: auto;
+}
+.b  th,td {
+    border: 1px solid;
+}
+.c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: auto;
+}
+.d{
+    display: flex;
+    justify-content:space-between;
+    width: 100px ;
+}
